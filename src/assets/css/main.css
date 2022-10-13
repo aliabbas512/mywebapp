@@ -159,7 +159,7 @@ p {
 }
 .main-btn.main-btn-2 {
   background-color: #ff3300;
-  color: #2b70fa;
+  color: #ff3300;
   border-color: #2b70fa;
 }
 .main-btn.main-btn-2:hover {
@@ -866,7 +866,7 @@ p {
   z-index: 999;
 }
 .appie-header-area.appie-header-2-area .appie-btn-box .main-btn {
-  background: #ff3e66;
+  background: #ff3300;
   border-radius: 30px;
   border-color: #ff3e66;
 }
