@@ -223,7 +223,7 @@ p {
   border-radius: 30px;
   border: 2px solid #e7eaef;
   background: #fff;
-  color: #0e1133;
+  color: #ff3300;
 }
 .appie-section-title .main-btn:hover {
   background: #ff3e66;
@@ -325,7 +325,7 @@ p {
   margin-bottom: 30px;
 }
 .offcanvas_menu_wrapper .header-btn a {
-  color: #222;
+  color: #ff3300;
 }
 .offcanvas_menu_wrapper .header-btn a:hover {
   color: #222;
